@@ -1,1 +1,16 @@
  
+# Compiled Java classes and build output
+*.class
+/bin/
+/out/
+/target/
+
+# IDE files (common for Eclipse, IntelliJ, VS Code)
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS files and generated files
+.DS_Store
