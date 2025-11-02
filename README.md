@@ -62,25 +62,25 @@ The project follows a **layered MVC structure**:
 ---
 ## 🖼️ 5. Screenshots
 ### 🧁 Login Page  
-![Login](screenshots/login.png)
+![Login](Screenshots/login.png)
 
 ### 🏠 Dashboard  
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ### 🍬 Inventory Management  
-![Inventory](screenshots/Inventory.png)
-![Item Addition](screenshots/Item_Addition.png)
+![Inventory](Screenshots/Inventory.png)
+![Item Addition](Screenshots/Item_Addition.png)
 
 ### 👥 Customer Management  
-![Customer Report](screenshots/Report.png)
+![Customer Report](Screenshots/Report.png)
 
 ### 💵 Billing  
-![Billing Report](screenshots/Billing.png)
-![Billing Report Sale Completion](screenshots/Sale_Completion.png)
-![Invoice Generation](screenshots/Invoice.png)
+![Billing Report](Screenshots/Billing.png)
+![Billing Report Sale Completion](Screenshots/Sale_Completion.png)
+![Invoice Generation](Screenshots/Invoice.png)
 
 ### 📊 Sales Report  
-![Sales Report](screenshots/Report.png)
+![Sales Report](Screenshots/Report.png)
 
 
 ## ⚙️ 6. Setup Instructions (Local Installation)
