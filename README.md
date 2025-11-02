@@ -100,8 +100,8 @@ sqlite3 --version
 
 ### 🔹 Step 2 — Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/SweetShopManagementSystem.git
-cd SweetShopManagementSystem
+git clone https://github.com/<your-username>/Sweet_Shop.git
+cd Sweet_Shop
 ```
 
 ---
@@ -165,7 +165,7 @@ sqlite3 --version
 ## 📂 Directory Structure
 
 ```plaintext
-SweetShopManagementSystem/
+Sweet_Shop/
 │
 ├── lib/
 │   ├── sqlite-jdbc-3.50.3.0.jar
